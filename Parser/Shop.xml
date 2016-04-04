@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shop>
+    <goods id="1">
+        <name>Видеокарта GTX 960</name>
+        <price>600</price>
+        <category>Компьютерная техника</category>
+        <description>Техника</description>
+    </goods>
+    <goods id="2">
+        <name>Велосипед</name>
+        <price>100.0</price>
+        <category>Горные велосипеды</category>
+        <description>Спорт товары</description>
+    </goods>
+    <goods id="3">
+        <name>Ябоко</name>
+        <price>1</price>
+        <category>Фрукты</category>
+        <description>Продукты</description>
+    </goods>
+</shop>
