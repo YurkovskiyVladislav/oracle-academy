@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <goods>
+        <name>pen</name>
+        <price>5.0</price>
+        <category>pens</category>
+        <description>itpen</description>
+    </goods>
+    <goods>
+        <name>apple</name>
+        <price>1.0</price>
+        <category>Fructs</category>
+        <description>eat</description>
+    </goods>
+</shop>
